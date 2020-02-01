@@ -1,2 +1,2 @@
 # gitskill
-switch to dev
+switch to new dev
